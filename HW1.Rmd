@@ -1,0 +1,17 @@
+---
+title: "HW_1"
+author: "ARA"
+date: "9/9/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# HELLO WORLD!
+##This is a markdown file
+```{bash}
+
+```
+
